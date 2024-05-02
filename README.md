@@ -19,3 +19,6 @@ I'm Javier, a full-stack developer from <img src="https://cdn-icons-png.flaticon
 
 ## Testing & Version Control:
 <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" width="40"/> <img src="assets/logos/cypress.svg" alt="Cypress" width="48"/> <img src="https://img.icons8.com/color/48/000000/cucumber.png" alt="Cucumber" width="48"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48"/> <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="48"/>
+
+## Upcoming Skills:
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="48"/> <img src="assets/logos/pytorch.png" alt="PyTorch" width="40"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48"/> <img src="assets/logos/ai.png" alt="Machine Learning" width="48"/>
