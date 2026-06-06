@@ -3,7 +3,7 @@ I'm Javier, a full-stack developer from <img src="https://cdn-icons-png.flaticon
  now based in <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> Berlin, Germany. I'm passionate about writing software, exploring new technologies, and bringing ideas to life.
 </p>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/dinhanhthi/](https://www.linkedin.com/in/javier-jimenez-63945711/))]([https://www.linkedin.com/in/dinhanhthi/](https://www.linkedin.com/in/javier-jimenez-63945711/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javier-jimenez-63945711/)
 
 ## Programming Languages:
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48"/> <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48"/> <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="PHP" width="48"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48"/> 
